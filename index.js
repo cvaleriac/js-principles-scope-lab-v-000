@@ -3,3 +3,5 @@ function FixtheScope () {
 
   return customerName;
 }
+
+FixtheScope();
