@@ -1,7 +1,1 @@
-function FixtheScope () {
-  const customerName = 'bob';
-
-  return customerName;
-}
-
-FixtheScope();
+var customerName = 'bob';
